@@ -14,4 +14,4 @@ def targil1():
     print(sum / 5 - sum_old / 5)
 
 
-targil1()
+
