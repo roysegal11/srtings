@@ -13,5 +13,6 @@ def targil1():
     print(sum_old / 5)
     print(sum / 5 - sum_old / 5)
 
+targil1()
 
-
+#let's see if this is working
